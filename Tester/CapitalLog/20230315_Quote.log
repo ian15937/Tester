@@ -1,0 +1,8 @@
+-----------------------------------------------------------------
+[21060] 2023/03/15 17:52:45.838 OnSessionConnect¡ACode: 3001, Error Code:0.
+[21060] 2023/03/15 17:52:45.839 SKQuoteLib_EnterMonitorLONG starting
+[21060] 2023/03/15 17:52:45.839 OnConnection ( 3001 , 0 ) 
+[21060] 2023/03/15 17:52:46.106 Market Info is OK!
+[21060] 2023/03/15 17:52:46.142 Catalog info is OK!
+[21060] 2023/03/15 17:52:46.835 Solace RequestInitializeData (TO_S_19,S_1F)
+[21060] 2023/03/15 17:52:46.836 OnConnection ( 3003 , 0 ) 
