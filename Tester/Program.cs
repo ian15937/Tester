@@ -39,7 +39,7 @@ namespace Tester
         bool _ready = false;
         public CapitalQuoteObject()
         {
-            CapitalInit.m_pSKQuote = new();
+            CapitalInit.m_pSKQuote = new SKQuoteLib();
             CapitalInit.m_pSKQuote.OnConnection += new _ISKQuoteLibEvents_OnConnectionEventHandler(m_SKQuoteLib_OnConnection);
             var code = CapitalInit.m_pSKQuote.SKQuoteLib_EnterMonitorLONG();
             while (!_ready) {
